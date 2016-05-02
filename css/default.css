@@ -7,6 +7,9 @@ h1{
     color: #3399cc;
     text-align: center;
 }
+h1 span{
+    color: #d0e35b;
+}
 h2{
     font-size: 1.25em;
     color: #ffffff;
